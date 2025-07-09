@@ -2,6 +2,8 @@
 
 A web-based MVP application that generates short, unique, human-friendly identifiers ("betanumerics") for users. The system allows users to enter their email address (used as a namespace/scope), then generate and return unique identifiers via a simple web interface and API.
 
+<img width="668" alt="image" src="https://github.com/user-attachments/assets/a4ed0051-479d-4e47-84cf-b55c5f9612b8" />
+
 ## Features
 
 - **User Scoping**: Email-based namespace for identifier generation
